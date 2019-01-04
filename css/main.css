@@ -1273,6 +1273,9 @@ input::-moz-focus-inner {
   padding-left: 55px;
   position: relative;
 }
+.home-content .main-heading{
+  font-size: 40px;
+}
 
 .home-content h3::before {
   content: "";
